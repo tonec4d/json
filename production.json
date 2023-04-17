@@ -1,5 +1,13 @@
 {
-  "ProductionLine": [
+  "userinfo": [
+    {
+      "UserID": "0",
+      "ProductionProgress": "Production Progress %",
+      "ProgressBar": "2",
+      "Part-1": "23",
+      "Info-1": "Chasis Connector Piece",
+      "Info-2": "Ryan Jacob"
+    },
     {
       "UserID": "1",
       "OperationStartTime1": "08:45 AM",
@@ -8,14 +16,21 @@
       "BatchNumber1": "202201-11",
       "TotalPackages": "1250",
       "PackagesChecked": "762",
-      "Defects": "6",
+      "Defects-0": "6",
       "DefectPercentage": "%0,78",
       "OperationStartTime2": "09:05 AM",
       "TotalRuntime2": "2hrs 5mins",
       "Downtime2": "0",
       "BatchNumber2": "2022015-02",
       "PartsWelded": "102",
-      "Defects": "2",
+      "Defects-1": "2"
+    },
+    {
+      "UserID": "2",
+      "//first_comment": "Only values between 0 and 6 for Pressure.",
+      "Pressure": "3.5",
+      "//second_comment": "Only values between -50 and +50 for Temperature. Gasoline's temperature is 15C for regulatory reasons",
+      "Temperature": "15"
     }
   ]
 }
