@@ -1,0 +1,21 @@
+{
+  "ProductionLine": [
+    {
+      "UserID": "1",
+      "OperationStartTime1": "08:45 AM",
+      "TotalRuntime1": "4hrs 15mins",
+      "Downtime1": "30 mins",
+      "BatchNumber1": "202201-11",
+      "TotalPackages": "1250",
+      "PackagesChecked": "762",
+      "Defects": "6",
+      "DefectPercentage": "%0,78",
+      "OperationStartTime2": "09:05 AM",
+      "TotalRuntime2": "2hrs 5mins",
+      "Downtime2": "0",
+      "BatchNumber2": "2022015-02",
+      "PartsWelded": "102",
+      "Defects": "2",
+    }
+  ]
+}
