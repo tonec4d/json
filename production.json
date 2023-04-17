@@ -28,7 +28,7 @@
     {
       "UserID": "2",
       "//first_comment": "Only values between 0 and 6 for Pressure.",
-      "Pressure": "3.5",
+      "Pressure": "4",
       "//second_comment": "Only values between -50 and +50 for Temperature. Gasoline's temperature is 15C for regulatory reasons",
       "Temperature": "15"
     }
